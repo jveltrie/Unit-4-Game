@@ -1,8 +1,8 @@
 body{
-	background-image: url("../images/blue-background.jpg")
+	background-color: purple;
 }
 div{
-	background-color: white;
+	background-color: cyan;
 	margin: 10px;
 	width: 25%
 }
@@ -55,7 +55,7 @@ div.header, div.instructions{
 #green{
 	color: green;
 }
-#red{
+#orange{
 	color: orange;
 }
 #yellow{
